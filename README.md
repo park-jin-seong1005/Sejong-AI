@@ -25,7 +25,14 @@ AI 기반 객체 탐지 및 위험 분석 기술 개발
 - **객체 위치와 횡단보도 좌표 분석**을 통한 충돌 위험 판단 알고리즘 설계  
 - YOLOv8 기반 **3D 공간 인식** 적용으로 위험 탐지 정확도 개선  
 - 애자일 방식으로 **스프린트 2회/주**, V-모델 기반 설계-개발-테스트 진행  
-- 단위 테스트, 컴포넌트 테스트, 시스템 테스트 수행 및 오류 점검  
+- 단위 테스트, 컴포넌트 테스트, 시스템 테스트 수행 및 오류 점검
+
+### 수행 과정  
+<img width="710" height="450" alt="image" src="https://github.com/user-attachments/assets/1f5f0f9a-4e84-4605-a18f-08d22688a06d" />
+
+### 결과 사진  
+<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/b21c0346-dc85-410e-b7dc-3f5da155941f" />
+<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/be9952f6-cb90-43e6-bd38-630ebea6e413" />
 
 ### 성과 / 배운 점  
 - 세종시 자율주행 AI 경진대회 **3등 수상**  
